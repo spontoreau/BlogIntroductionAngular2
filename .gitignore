@@ -3,6 +3,8 @@
 
 #TSD
 typings
+*.js
+*.map
 
 # Logs
 logs
