@@ -1,0 +1,27 @@
+{
+  "name": "blog-introduction-angular2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vtek/BlogIntroductionAngular2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vtek/BlogIntroductionAngular2/issues"
+  },
+  "homepage": "https://github.com/Vtek/BlogIntroductionAngular2#readme",
+  "dependencies": {
+    "angular2": "^2.0.0-alpha.44",
+    "body-parser": "^1.14.1",
+    "ejs": "^2.3.4",
+    "es6-shim": "^0.33.11",
+    "express": "^4.13.3",
+    "systemjs": "^0.19.5"
+  }
+}

@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <base href="/"/>
+        <title>TestAngular2</title>
+        <script src="systemjs/dist/system.src.js"></script>
+        <script src="es6-shim/es6-shim.js"></script>
+        <script src="angular2/bundles/angular2.dev.js"></script>
+        <script src="angular2/bundles/router.dev.js"></script>
+        <script src="angular2/bundles/http.dev.js"></script>
+
+        <script>
+            System.config({
+                defaultJSExtensions: true
+            });
+            System.import('javascripts/app/boostrap').catch(console.log.bind(console));
+        </script>
+    </head>
+    <body>
+        <app>Loading...</app>
+    </body>
+</html>
