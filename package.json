@@ -17,10 +17,11 @@
   },
   "homepage": "https://github.com/Vtek/BlogIntroductionAngular2#readme",
   "dependencies": {
+	"@reactivex/rxjs": "^5.0.0-alpha.7",
     "angular2": "^2.0.0-alpha.44",
     "body-parser": "^1.14.1",
     "ejs": "^2.3.4",
-    "es6-shim": "^0.33.11",
+    "es6-shim": "^0.33.10",
     "express": "^4.13.3",
     "systemjs": "^0.19.5"
   }
