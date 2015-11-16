@@ -9,17 +9,14 @@ router.get('/', (req, res) => {
                 firstName: 'Sylvain',
                 lastName: 'PONTOREAU'
             },{
-                firstName: 'Sylvain1',
-                lastName: 'PONTOREAU1'
+                firstName: 'Guillaume',
+                lastName: 'SPERA'
             },{
-                firstName: 'Sylvain2',
-                lastName: 'PONTOREAU2'
+                firstName: 'Aroua',
+                lastName: 'TOUKABRI'
             },{
-                firstName: 'Sylvain3',
-                lastName: 'PONTOREAU3'
-            },{
-                firstName: 'Sylvain4',
-                lastName: 'PONTOREAU4'
+                firstName: 'Anthony',
+                lastName: 'GUILLAUME'
             }
         ]
     );
